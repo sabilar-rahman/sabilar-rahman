@@ -100,9 +100,7 @@ My goal is to develop responsive and visually appealing websites that provide ex
 <a href="https://www.facebook.com/sabilar.rahman.2" target="_blank">
 <img src=https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/SabilarRahman" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://twitter.com/SabilarRahman" target="_blank">
 <img src=https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
