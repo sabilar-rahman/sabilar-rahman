@@ -90,7 +90,22 @@ My goal is to develop responsive and visually appealing websites that provide ex
 
 ## Connect with me  
 <div align="center">
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sabilar.rahman.2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sabilar_rahman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabilar-rahman) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SabilarRahman) 
+
+<a href="https://linkedin.com/in/sabilar-rahman" target="_blank">
+<img src=https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/sabilar_rahman" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/sabilar.rahman.2" target="_blank">
+<img src=https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/SabilarRahman" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/SabilarRahman" target="_blank">
+<img src=https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
