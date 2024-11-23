@@ -110,7 +110,7 @@ My goal is to develop responsive and visually appealing websites that provide ex
 ## Github Stats  
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabilar-rahman&" alt="sabilar-rahman" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sabilar-rahman&show_icons=true&count_private=true&hide_border=false" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabilar-rahman&show_icons=true&count_private=true&hide_border=false"  alt="sabilar-rahman"/>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabilar-rahman&show_icons=true&locale=en&layout=compact" alt="sabilar-rahman" />
 </div>  
 
