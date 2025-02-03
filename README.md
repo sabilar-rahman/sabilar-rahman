@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://github.com/sabilar-rahman/sabilar-rahman/blob/main/Cover.jpg" align="center" style="width: 75%" />
-</div>  
-  
-
 ### <div align="center">I'm Md. Sabilar Raman, a full-time Frontend Developer with a passion for creating dynamic, user-friendly web applications. I specialize in frontend technologies, including HTML, CSS, JavaScript, React, Redux, and TypeScript. I bring designs to life with seamless functionality and an intuitive user experience.
 
 In addition to my frontend expertise, I am currently enhancing my skills by learning Level 2 Web Development. This includes backend technologies such as Node.js, Express, MongoDB, and Next.js, which bridges both frontend and backend development.
