@@ -1,18 +1,6 @@
-### <div align="center">I'm Md. Sabilar Raman, a Full Stack Developer with a passion for creating dynamic, user-friendly web applications. I specialize in frontend technologies, including HTML, CSS, JavaScript, React, Redux, and TypeScript. I bring designs to life with seamless functionality and an intuitive user experience.
-
-In addition to my frontend expertise, I am currently enhancing my skills by learning Level 2 Web Development. This includes backend technologies such as Node.js, Express, MongoDB, and Next.js, which bridges both frontend and backend development.
-
-My goal is to develop responsive and visually appealing websites that provide exceptional user experiences on any device. When I'm not coding, I enjoy exploring the latest trends in web development and continuously learning to improve my craft.</div>  
-  
-
-- 🌱 I’m currently enhancing my skills by learning Level 2 Web Development  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+### <div align="center"> Hi I'm Md. Sabilar Raman, a Programmer & Full Stack Developer
+</div>  
+    
 
 <br/>  
 
