@@ -74,19 +74,14 @@
 ## Connect with me  
 <div align="center">
 
-<a href="https://linkedin.com/in/sabilar-rahman" target="_blank">
-<img src=https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/sabilar_rahman" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/sabilar.rahman.2" target="_blank">
-<img src=https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
+<a href="https://linkedin.com/in/sabilar-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabilar-rahman" height="30" width="40" /></a>
+<a href="https://fb.com/sabilar.rahman.2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabilar.rahman.2" height="30" width="40" /></a>
+<a href="https://instagram.com/sabilar_rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabilar_rahman" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/bloat_vista_28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bloat_vista_28" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sabilarrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sabilarrahman" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sabilar-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sabilar-rahman" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sabilarrahman36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sabilarrahman36" height="30" width="40" /></a>
 
-<a href="https://twitter.com/SabilarRahman" target="_blank">
-<img src=https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 </div>  
   
 
