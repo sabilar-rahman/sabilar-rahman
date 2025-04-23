@@ -1,6 +1,10 @@
 ### <div align="center"> Hi I'm Md. Sabilar Raman, a Programmer & Full Stack Developer
 </div>  
-    
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sabilar-rahman&&style=flat-square" align="center" />
+</div>    
 
 <br/>  
 
@@ -113,11 +117,6 @@
 
   
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sabilar-rahman&&style=flat-square" align="center" />
-</div>  
-  
-<br/>  
 
 <br />
 
